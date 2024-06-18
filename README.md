@@ -87,7 +87,7 @@ Refreshments will be available throughout the day.
 
 # Get Your Invite!
 
-**If you've not yet registered** sign up here aka.ms/ukgovconf/signup note the initial wave of confirmed places have been sent out but you can still **register now!!**
+**If you've not yet registered** [sign up here](https://aka.ms/ukgovconf/signup). note the initial wave of confirmed places have been sent out but you can still **register now!!**
 
 **Please do not turn up without registering** as this allows us to manage capacity and comply with Health and Safety rules.
 
