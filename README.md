@@ -31,9 +31,13 @@ Anyone can attend these sessions but be prepared to see a little less PowerPoint
 
 You can find UA92 near Old Trafford, here's a [map link](https://maps.app.goo.gl/zFuKhJenMg9S1FiEA) to the location
 
+
 🚝 **Rail** - If arriving by train, aim for Manchester Piccadilly and follow the Tram instructions. 
+
 🚃 **Tram** - The best way to get to UA92 is by Tram, get the Purple Line from Manchester Piccadilly and alight at Old Trafford
+
 🚗 **Car** - We encourage you to use Public Transport as UA92's Car Park is currently under refurbishment. There are some public car parks within walking distance you can find on [Parkopedia](https://en.parkopedia.co.uk/parking/locations/old_trafford_greater_manchester_england_united_kingdom_7753gcw2hhnx9q804b/?country=uk&arriving=202407150900&leaving=202407151800)
+
 ✈️ **Air** - If you need to fly, Manchester Airport serves most major destinations. A direct train can be taken from Manchester Airport to Manchester Piccadilly where you can then get the tram
 
 ## Government Collaboration
