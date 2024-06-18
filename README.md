@@ -80,7 +80,7 @@ Refreshments will be available throughout the day.
 |--|--|--|--|--
 | 11:00 | A Guided Tour to all  new Copilot Studio! | Geospatial analytics and AI on Azure | Azure Deployment Environments| DWP - A-cubed work-coach assistant
 | 12:00 | GenAI Deployment Strategy or AI services |Fabric session - potential demo using IMDb data | Met Office Talk | A glimpse into Azure Futures
-| 14:00 | TBC | Delta Lake on Azure with ADB|TBC| Can an LLM Play Street Fighter?
+| 14:00 | TBC | Delta Lake on Azure with ADB|Developer Productivity with DevBox| Can an LLM Play Street Fighter?
 | 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos|TBC| TOEX, Norfolk Police Demo
 | 16:00 |TBC  |TBC  | TBC | TBC
 
