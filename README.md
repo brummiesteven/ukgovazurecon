@@ -67,10 +67,11 @@ Refreshments will be available throughout the day.
 |  |Building Intelligent Apps | Data and Analytics | Accelerating Developer Productivity | Accelerating Innovation|
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
-| 12:00 | TBC | Azure Open AI Service - Latest Announcements and Demos | TBC | MoD Innovation in Accessibility
+| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future
+ | Azure Open AI Service - Latest Announcements and Demos | TBC | MoD Innovation in Accessibility
 | 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | Drive Innovation responsibly with AI - 45 min panel discussion | Demystifying - Copilot Studio vs Azure AI Studio
 | 15:00 | AI Agents |Power Business Decisions with Cloud Scale Analytics | What's new with GitHub Copilot | Introduction to Microsoft Planetary Computer
-| 16:00 | TBC |TBC| Azure Deployment Environments| UK Home Office - Innovation to Production
+| 16:00 | Productioinsing AI Opportunities |TBC| Azure Deployment Environments| UK Home Office - Innovation to Production
 
 
 ## Full Day 2 Agenda
@@ -82,7 +83,7 @@ Refreshments will be available throughout the day.
 | 12:00 | GenAI Deployment Strategy or AI services |Fabric session - potential demo using IMDb data | TBC | A glimpse into Azure Futures
 | 14:00 | TBC | Delta Lake on Azure with ADB|Developer Productivity with DevBox| Can an LLM Play Street Fighter?
 | 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos|TBC| TOEX, Norfolk Police Demo
-| 16:00 |TBC  |TBC  | TBC | TBC
+| 16:00 |How GitHub Copilot Acelerates AI App Development  |TBC  | TBC | TBC
 
 
 # Get Your Invite!
