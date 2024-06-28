@@ -1,3 +1,4 @@
+
 # The Microsoft Azure Public Sector Conference 
 
 > **15th and 16th July, Manchester UA92**
@@ -67,8 +68,7 @@ Refreshments will be available throughout the day.
 |  |Building Intelligent Apps | Data and Analytics | Accelerating Developer Productivity | Accelerating Innovation|
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
-| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future
- | Azure Open AI Service - Latest Announcements and Demos | TBC | MoD Innovation in Accessibility
+| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Azure Open AI Service - Latest Announcements and Demos | TBC | MoD Innovation in Accessibility
 | 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | Drive Innovation responsibly with AI - 45 min panel discussion | Demystifying - Copilot Studio vs Azure AI Studio
 | 15:00 | AI Agents |Power Business Decisions with Cloud Scale Analytics | What's new with GitHub Copilot | Introduction to Microsoft Planetary Computer
 | 16:00 | Productioinsing AI Opportunities |TBC| Azure Deployment Environments| UK Home Office - Innovation to Production
