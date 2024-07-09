@@ -79,6 +79,8 @@ Refreshments will be available throughout the day.
 
 ## Full Day 2 Agenda
 
+**10:00** - Opening Session with a glimpse on Microsoft Futures, Science, Technology and Quantum Computing by Nick McQuire. - **Auditorium**
+
 
 |  |Building Intelligent Apps - Sir Arthur Lewis | Data and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space | 
 |--|--|--|--|--
