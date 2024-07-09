@@ -71,7 +71,7 @@ Refreshments will be available throughout the day.
 |  |Building Intelligent Apps - Sir Arthur Lewis | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity - Event Space 1 | Accelerating Innovation - Event Space 2|
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
-| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | An Intro to the CDDO/Microsoft SPA Framework | TBC
+| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | An Intro to the **CDDO**/Microsoft SPA Framework | TBC
 | 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | TBC | Demystifying - Copilot Studio vs Azure AI Studio
 | 15:00 | AI Agents | Deploying region-scale health data infrastructure for real world evidence. | What's new with GitHub Copilot | **MoD** Accessibility Innovation
 | 16:00 | AI - beyond the Playground |TBC by David Mitchell | Azure VMWare Service | UK **Home Office** - Innovation to Production
