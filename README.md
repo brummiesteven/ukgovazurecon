@@ -1,4 +1,5 @@
 
+
 # The Microsoft Azure Public Sector Conference 
 
 > **15th and 16th July, Manchester UA92**
@@ -65,30 +66,32 @@ Refreshments will be available throughout the day.
 
 ## Full Day 1 Agenda
 
-|  |Building Intelligent Apps | Data and Analytics | Accelerating Developer Productivity | Accelerating Innovation|
+**10:00** - Opening Session with Steve Chan (Apps & AI Specialist, Microsoft) and David Knott (UK Government CTO). - **Auditorium**
+
+|  |Building Intelligent Apps - Sir Arthur Lewis | Data and Analytics - Auditorium | Accelerating Developer Productivity - Event Space 1 | Accelerating Innovation - Event Space 2|
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
-| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Azure Open AI Service - Latest Announcements and Demos | TBC | MoD Innovation in Accessibility
-| 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | Drive Innovation responsibly with AI - 45 min panel discussion | Demystifying - Copilot Studio vs Azure AI Studio
-| 15:00 | AI Agents |Power Business Decisions with Cloud Scale Analytics | What's new with GitHub Copilot | Introduction to Microsoft Planetary Computer
-| 16:00 | Productioinsing AI Opportunities |TBC| Azure Deployment Environments| UK Home Office - Innovation to Production
+| 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | An Intro to the CDDO/Microsoft SPA Framework | TBC
+| 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | TBC | Demystifying - Copilot Studio vs Azure AI Studio
+| 15:00 | AI Agents | Deploying region-scale health data infrastructure for real world evidence. | What's new with GitHub Copilot | **MoD** Accessibility Innovation
+| 16:00 | AI - beyond the Playground |TBC by David Mitchell | Azure VMWare Service | UK **Home Office** - Innovation to Production
 
 
 ## Full Day 2 Agenda
 
 
-|  |Building Intelligent Apps | Data and Analytics | Accelerating Developer Productivity | Accelerating Innovation|
+|  |Building Intelligent Apps - Sir Arthur Lewis | Data and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space | 
 |--|--|--|--|--
-| 11:00 | A Guided Tour to all  new Copilot Studio! | Geospatial analytics and AI on Azure (TBC) | Azure Deployment Environments| DWP - A-cubed work-coach assistant
-| 12:00 | GenAI Deployment Strategy or AI services |Fabric session - potential demo using IMDb data | TBC | A glimpse into Azure Futures
-| 14:00 | TBC | Delta Lake on Azure with ADB|Developer Productivity with DevBox| Can an LLM Play Street Fighter?
-| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos|TBC| TOEX, Norfolk Police Demo
-| 16:00 |How GitHub Copilot Acelerates AI App Development  |TBC  | TBC | TBC
+| 11:00 | A Guided Tour to all  new Copilot Studio! | A-Cubed Work Coach Assistant **DWP** | Azure Deployment Environments
+| 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of recent AI Pathfinder Projects **Home Office** 
+| 14:00 | Can an LLM Play Street Fighter? | Building Smart Applications with AI | Developer Productivity with DevBox
+| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, Norfolk Police Demo
+| 16:00 |How GitHub Copilot Acelerates AI App Development  |TBC by Neil Millington  | Using WSL to get a full Linux Experience in Windows 
 
 
 # Get Your Invite!
 
-**If you've not yet registered** [sign up here](https://aka.ms/ukgovconf/signup). note the initial wave of confirmed places have been sent out but you can still **register now!!**
+**If you've not yet registered** we've closed the form to register due to being at capacity, but we're able to add people to the guest list manually - contact Steve Chan (stevechan@microsoft.com) to do this.
 
 **Please do not turn up without registering** as this allows us to manage capacity and comply with Health and Safety rules.
 
