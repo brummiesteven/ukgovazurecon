@@ -68,7 +68,7 @@ Refreshments will be available throughout the day.
 
 **10:00** - Opening Session with Steve Chan (Apps & AI Specialist, Microsoft) and David Knott (UK Government CTO). - **Auditorium**
 
-|  |Building Intelligent Apps - Sir Arthur Lewis | Data and Analytics - Auditorium | Accelerating Developer Productivity - Event Space 1 | Accelerating Innovation - Event Space 2|
+|  |Building Intelligent Apps - Sir Arthur Lewis | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity - Event Space 1 | Accelerating Innovation - Event Space 2|
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
 | 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | An Intro to the CDDO/Microsoft SPA Framework | TBC
@@ -82,7 +82,7 @@ Refreshments will be available throughout the day.
 **10:00** - Opening Session with a glimpse on Microsoft Futures, Science, Technology and Quantum Computing by Nick McQuire. - **Auditorium**
 
 
-|  |Building Intelligent Apps - Sir Arthur Lewis | Data and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space | 
+|  |Building Intelligent Apps - Sir Arthur Lewis | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space | 
 |--|--|--|--|--
 | 11:00 | A Guided Tour to all  new Copilot Studio! | A-Cubed Work Coach Assistant **DWP** | Azure Deployment Environments
 | 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of recent AI Pathfinder Projects **Home Office** 
