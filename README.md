@@ -72,7 +72,7 @@ Refreshments will be available throughout the day.
 |--|--|--|--|--
 | 11:00 | No Talk | Microsoft AI Halo Presentation | No Talk | No Talk
 | 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | An Intro to the **CDDO**/Microsoft SPA Framework | TBC
-| 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion | TBC | Demystifying - Copilot Studio vs Azure AI Studio
+| 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion inc **CDDO, Home Office and DWP** | TBC | Demystifying - Copilot Studio vs Azure AI Studio
 | 15:00 | AI Agents | Deploying region-scale health data infrastructure for real world evidence. | What's new with GitHub Copilot | **MoD** Accessibility Innovation
 | 16:00 | AI - beyond the Playground |TBC by David Mitchell | Azure VMWare Service | UK **Home Office** - Innovation to Production
 
@@ -85,9 +85,9 @@ Refreshments will be available throughout the day.
 |  |Building Intelligent Apps - Sir Arthur Lewis | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space | 
 |--|--|--|--|--
 | 11:00 | A Guided Tour to all  new Copilot Studio! | A-Cubed Work Coach Assistant **DWP** | Azure Deployment Environments
-| 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of recent AI Pathfinder Projects **Home Office** 
+| 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of Home Office AI Innovation **Home Office** 
 | 14:00 | Can an LLM Play Street Fighter? | Building Smart Applications with AI | Developer Productivity with DevBox
-| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, Norfolk Police Demo
+| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, **Norfolk Police** Demo
 | 16:00 |How GitHub Copilot Acelerates AI App Development  |TBC by Neil Millington  | Using WSL to get a full Linux Experience in Windows 
 
 
