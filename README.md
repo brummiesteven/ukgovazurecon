@@ -73,7 +73,7 @@ Refreshments will be available throughout the day.
 | 11:00 | No Talk | Geospatial Analytics and AI on Azure, with **DEFRA** and Databricks | No Talk | No Talk
 | 12:00 | Navigating the AI Revolution: Preparing Your Organization for the Future | No Talk | An Intro to the **CDDO**/Microsoft SPA Framework | No Talk
 | 14:00 | From AI Zero to AI Hero - Fundamental Concepts for Building Intelligent Applications |Drive Innovation responsibly with AI - 45 min panel discussion inc **CDDO, Home Office and DWP** | No Talk | Demystifying - Copilot Studio vs Azure AI Studio
-| 15:00 | AI Agents | Deploying region-scale health data infrastructure for real world evidence. | What's new with GitHub Copilot | **MoD** Accessibility Innovation
+| 15:00 | AI Agents | Bricking-it Deploying region-scale health data infrastructure for real world evidence. **NHS and Databricks** | What's new with GitHub Copilot | **MoD** Accessibility Innovation
 | 16:00 | AI - beyond the Playground |Microsoft Fabric: Analytics and AI Integration | Azure VMWare Service | UK **Home Office** - Innovation to Production
 
 
