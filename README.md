@@ -87,7 +87,7 @@ Refreshments will be available throughout the day.
 | 11:00 | A Guided Tour to all  new Copilot Studio! | A-Cubed Work Coach Assistant **DWP** | Azure Deployment Environments
 | 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of Home Office AI Innovation **Home Office** 
 | 14:00 | Info Assistant, A ready made Intelligent App | Building Smart Applications with AI | Developer Productivity with DevBox
-| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, **Norfolk Police** Demo
+| 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, Vunerability Policing on Azue  **Norfolk Police** Demo
 | 16:00 |How GitHub Copilot Acelerates AI App Development  |Here there and Everywhere: AI Today, how can it help me?| Using WSL to get a full Linux Experience in Windows 
 
 
