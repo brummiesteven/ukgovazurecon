@@ -82,11 +82,11 @@ Refreshments will be available throughout the day.
 **10:00** - Opening Session with a glimpse on Microsoft Futures, Science, Technology and Quantum Computing by Nick McQuire. - **Auditorium**
 
 
-|  |Building Intelligent Apps - Event Space 1 | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Event Space 2| 
+|  |Building Intelligent Apps - Event Space 1 | Data, AI and Analytics - Auditorium | Accelerating Developer Productivity and Innovation - Sir Arthur Lewis| 
 |--|--|--|--|--
 | 11:00 | A Guided Tour to all  new Copilot Studio! | A-Cubed Work Coach Assistant **DWP** | No Talk
 | 12:00 | GenAI Deployment Strategy or AI services | Data Engineering with Microsoft Fabric | An overview of Home Office AI Innovation **Home Office** 
-| 14:00 | Info Assistant, A ready made Intelligent App | r/IAmA AI Expert: Ask Me Anything (Open-mic conversation with Cindy Weng)  | Developer Productivity with DevBox
+| 14:00 | Info Assistant, A ready made Intelligent App + Can an LLM play street fighter? | r/IAmA AI Expert: Ask Me Anything (Open-mic conversation with Cindy Weng)  | Developer Productivity with DevBox
 | 15:00 | Architecting the Future: Deep Dive into Generative AI Architecture design | Azure Open AI - Deep Dive & Demos| TOEX, Vunerability Policing on Azue  **Norfolk Police** Demo
 | 16:00 |How GitHub Copilot Acelerates AI App Development  |Here there and Everywhere: AI Today, how can it help me?| No Talk
 
